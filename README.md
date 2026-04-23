@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Rakun.
 
-<!--
-**RakunCode/RakunCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería Informática**  
+💡 Descubriendo mi pasión por el mundo de la programación  
+🚀 Actualmente enfocada en **Node.js** y **Express.js**
 
-Here are some ideas to get you started:
+### Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Aprendiendo cada día cómo convertir ideas en código útil
+- 📦 Me gusta crear cosas que resuelvan problemas reales
+- 🧠 En búsqueda constante de "*¿cómo puedo mejorar esto?*"
+
+### 🔧 Tecnologías que estoy explorando
+
+- JavaScript (ES6+)
+- Node.js
+- Express.js
+- Git & GitHub
+
+### ✨ Próximos pasos (lo que viene)
+
+- Agregar bases de datos (MongoDB o PostgreSQL)
+- Aprender a hacer pruebas (testing)
+- Subir proyectos completos a este perfil
+
+---
+  
+> *"By the grace of God, I am what I am (1 Corinthians 15:10)."*✝
