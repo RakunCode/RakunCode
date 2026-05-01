@@ -19,7 +19,7 @@
 
 ### ✨ Próximos pasos (lo que viene)
 
-- Agregar bases de datos (MongoDB o PostgreSQL)
+- Agregar bases de datos (PostgreSQL)
 - Aprender a hacer pruebas (testing)
 - Subir proyectos completos a este perfil
 
